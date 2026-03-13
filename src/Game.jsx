@@ -141,7 +141,7 @@ function Game() {
     setScore(0);
     setMatchsize(2);
     setWoncheck(false);
-    setRunning(true);
+    setTimer(0);
     const initial = [
       "🍎",
       "🍎",
